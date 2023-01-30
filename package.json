@@ -1,6 +1,6 @@
 {
-  "name": "enigma.js",
-  "version": "2.10.0",
+  "name": "@oneoki/enigma.js",
+  "version": "2.10.1",
   "description": "JavaScript library for consuming Qlik backend services",
   "author": "QlikTech International AB",
   "license": "MIT",
